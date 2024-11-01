@@ -8,6 +8,6 @@ Thumbs.db
 # Ignorar archivos de configuración sensibles
 .env
 
-# Archivos de caché de Python
+# Archivos de cache de Python
 __pycache__/
 *.py[cod]
